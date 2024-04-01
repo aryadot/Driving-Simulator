@@ -23,10 +23,10 @@
     "url": "https://github.com/alexvnguyen24/tempname"
   },
   "contributors": [
-    {"name": "Alex Nguyen", "email": "alevnguyen@umass.edu", "githubname": "alexvnguyen24"},
-    {"name": "", "email": "temp@umass.edu", "githubname": ""},
-    {"name": "", "email": "temp@umass.edu", "githubname": ""},
-    {"name": "", "email": "temp@umass.edu", "githubname": ""}
+    {"name": "Alex Nguyen", "email": "alevnguyen@umass.edu", "githubName": "alexvnguyen24"},
+    {"name": "", "email": "temp@umass.edu", "githubName": ""},
+    {"name": "", "email": "temp@umass.edu", "githubName": ""},
+    {"name": "", "email": "temp@umass.edu", "githubName": ""}
   ],
   "scripts": {
     "dev": "",
