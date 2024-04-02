@@ -1,0 +1,37 @@
+/* Element Selector Rule */
+h1 {
+    font-size: 25px;
+    color: red;
+ }
+ 
+ 
+ /* ID Selector Rule */
+ #overview {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(130, 150, 200, 0.5);
+    color: green;
+ }
+ 
+ 
+ 
+ 
+ /* Class Selector Rule ~ need to find a common class like a button */
+ 
+ 
+ /* Nested-Tag / Sub-Element Selector Rule: Implement a CSS rule that targets
+ elements within a specific context, for example, styling <a> tags differently
+ when they appear within the <nav> element versus elsewhere in the document. */
+ 
+ 
+ 
+ 
+ /* Pseudo-Class Selector Rule */
+ /* change the element tag as needed*/
+ a:hover {  
+    color: blue;
+    font-weight: bold;
+ }
+ 
