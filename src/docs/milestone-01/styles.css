@@ -35,3 +35,8 @@ h1 {
     font-weight: bold;
  }
  
+ nav a {
+    color: cyan;
+    font-size: 15px;
+  }
+  
